@@ -1,0 +1,18 @@
+{
+  "name": "greetings",
+  "version": "0.1.0",
+  "main": "greetings.js",
+  "license": "MIT",
+  "dependencies": {
+    "clear": "^0.0.1",
+    "colors": "^1.1.2",
+    "os": "^0.1.1"
+  },
+  "bin": {
+    "g-msg": "./greetings.js"
+  },
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "author": "Rawnly <fedevitale99@gmail.com>"
+}
