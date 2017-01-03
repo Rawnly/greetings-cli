@@ -12,7 +12,7 @@ Greeting message in your terminal
 ```
 # Install
 ```bash
-  $ npm install -g g-msg
+  $ npm install -g greetings-msg
 ```
 
 <!--
