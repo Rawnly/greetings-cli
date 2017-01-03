@@ -1,6 +1,8 @@
 # Greetings Message
 Greeting message in your terminal
 
+![img](https://cloud.githubusercontent.com/assets/16429579/21440180/133bd4da-c892-11e6-86ca-8832327069e0.png)
+
 ```bash
   $ g-msg
 
@@ -14,6 +16,8 @@ Greeting message in your terminal
 ```bash
   $ npm install -g greetings-msg
 ```
+
+
 
 <!--
 ## Why?
